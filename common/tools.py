@@ -5,6 +5,8 @@ LastEditTime: 2023-04-10 14:12:30
 LastEditors: mengzonefire
 Description: 工具模块, 快1k行了, 抽空分模块拆分一下
 '''
+from __future__ import annotations
+
 import json
 import sys
 import time
